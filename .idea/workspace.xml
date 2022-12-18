@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8840086-afb4-4b95-821a-c5547a40bfb1" name="Changes" comment="key handler">
-      <change afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/back1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/back2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/front1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/front2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/left1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/left2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/right1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/player/right2.png" afterDir="false" />
+    <list default="true" id="d8840086-afb4-4b95-821a-c5547a40bfb1" name="Changes" comment="player movment and animations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/gamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/gamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +42,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,7 +66,7 @@
       <workItem from="1669866076057" duration="1878000" />
       <workItem from="1671243229451" duration="3464000" />
       <workItem from="1671332223458" duration="4482000" />
-      <workItem from="1671340002438" duration="1326000" />
+      <workItem from="1671340002438" duration="1854000" />
     </task>
     <task id="LOCAL-00001" summary="key handler">
       <created>1671249626976</created>
@@ -84,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671249626976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="player movment and animations">
+      <created>1671341634296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671341634296</updated>
+    </task>
+    <task id="LOCAL-00003" summary="player movment and animations">
+      <created>1671341781476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671341781476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +100,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -103,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="key handler" />
-    <option name="LAST_COMMIT_MESSAGE" value="key handler" />
+    <MESSAGE value="player movment and animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="player movment and animations" />
   </component>
 </project>
