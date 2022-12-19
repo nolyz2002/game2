@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8840086-afb4-4b95-821a-c5547a40bfb1" name="Changes" comment="player movment and animations">
+      <change afterPath="$PROJECT_DIR$/src/maps/map01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiles/brick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiles/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tiles/water.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/gamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/gamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/2022 java 2/game1/src/maps",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +58,10 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\2022 java 2\game1\src\maps" />
+      <recent name="C:\2022 java 2\game1\src\tiles" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\2022 java 2\game1\src\player" />
       <recent name="C:\2022 java 2\game1\res\src\player" />
@@ -67,6 +79,7 @@
       <workItem from="1671243229451" duration="3464000" />
       <workItem from="1671332223458" duration="4482000" />
       <workItem from="1671340002438" duration="1854000" />
+      <workItem from="1671418379675" duration="3269000" />
     </task>
     <task id="LOCAL-00001" summary="key handler">
       <created>1671249626976</created>
